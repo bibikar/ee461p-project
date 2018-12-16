@@ -1,4 +1,4 @@
-# Music to my ears
+# Music to My Ears
 
 We worked in separate Jupyter Notebooks and serialized the data between runs to
 offer some persistence. Because scikit-learn models support pickling/unpickling,
