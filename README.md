@@ -1,4 +1,5 @@
 # Music to My Ears
+*Sameer Bibikar, Aimun Khan, Nimay Kumar, Jason Nguyen, Shrey Sachdeva*
 
 We worked in separate Jupyter Notebooks and serialized the data between runs to
 offer some persistence. Because scikit-learn models support pickling/unpickling,
