@@ -10,7 +10,7 @@ separately.
 - `feature_selection.ipynb` - Directly reads the data from `/mnt/snap`, which is the mountpoint for the MSD,
   selects only certain features, and dumps to different HDF5 files. Then, it combines those into one for
   convenience.
-- `Scratch File Clustering*.ipynb` - Different revisions of 
+- `Scratch File Clustering*.ipynb` - Initial supervised methods, feature exploration, adding the genre dataset
 - `filter_users_20.ipynb` - Filters out user histories which have less than 20 songs in them and outputs HDF5.
 - `kdtree.ipynb` - Trying out nearest neighbors algorithms (KDTree, Ball tree)
 - `kdtree_users.ipynb` - Implementing nearest neighbors algorithm with user histories, pickling these models
